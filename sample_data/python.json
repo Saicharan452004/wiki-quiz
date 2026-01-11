@@ -1,0 +1,116 @@
+{
+  "id": 3,
+  "url": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+  "title": "Python (programming language)",
+  "summary": "Pythonis ahigh-level,general-purpose programming language. Its design philosophy emphasizescode readabilitywith the use ofsignificant indentation.Python isdynamically type-checkedandgarbage-collected. It supports multipleprogramming paradigms, includingstructured(particularlyprocedural),object-orientedandfunctional programming.",
+  "sections": [
+    "History",
+    "Design philosophy and features",
+    "Syntax and semantics",
+    "Code examples",
+    "Libraries",
+    "Development environments",
+    "Implementations",
+    "Language Development",
+    "Naming",
+    "Languages influenced by Python",
+    "See also",
+    "Notes",
+    "References",
+    "Further reading",
+    "External links"
+  ],
+  "quiz": [
+    {
+      "question": "What feature does Python's design philosophy emphasize for achieving code readability?",
+      "options": [
+        "The use of mandatory semicolons",
+        "The use of significant indentation",
+        "The requirement of static typing",
+        "The rejection of garbage collection"
+      ],
+      "answer": "The use of significant indentation",
+      "difficulty": "easy",
+      "explanation": "Python's design philosophy emphasizes code readability with the use of significant indentation."
+    },
+    {
+      "question": "Who began working on Python in the late 1980s as a successor to the ABC programming language?",
+      "options": [
+        "Tim Peters",
+        "Alex Martelli",
+        "Guido van Rossum",
+        "Monty Python"
+      ],
+      "answer": "Guido van Rossum",
+      "difficulty": "easy",
+      "explanation": "Guido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language."
+    },
+    {
+      "question": "Which major revision of Python, released in 2008, was noted for not being completely backward-compatible with earlier versions?",
+      "options": [
+        "Python 0.9.0",
+        "Python 2.0",
+        "Python 2.7",
+        "Python 3.0"
+      ],
+      "answer": "Python 3.0",
+      "difficulty": "medium",
+      "explanation": "Python 3.0, released in 2008, was a major revision and not completely backward-compatible with earlier versions."
+    },
+    {
+      "question": "Python is strongly typed, which means it enforces what kind of behavior?",
+      "options": [
+        "It requires mandatory static typing for all variables.",
+        "It forbids operations that are poorly defined (e.g., adding a number and a string).",
+        "It only supports object-oriented programming.",
+        "It uses keywords like BEGIN/END to delimit blocks."
+      ],
+      "answer": "It forbids operations that are poorly defined (e.g., adding a number and a string).",
+      "difficulty": "medium",
+      "explanation": "Despite being dynamically typed, Python is strongly typed, forbidding operations that are poorly defined (e.g., adding a number and a string) rather than quietly attempting to interpret them."
+    },
+    {
+      "question": "What is the recommended indent size for Python code?",
+      "options": [
+        "Two spaces",
+        "One tab character",
+        "Four spaces",
+        "Eight spaces"
+      ],
+      "answer": "Four spaces",
+      "difficulty": "easy",
+      "explanation": "The recommended indent size is four spaces."
+    },
+    {
+      "question": "What is the source of the name 'Python'?",
+      "options": [
+        "A type of large snake",
+        "The ABC programming language",
+        "The British comedy series Monty Python's Flying Circus",
+        "The name of the first operating system it interfaced with"
+      ],
+      "answer": "The British comedy series Monty Python's Flying Circus",
+      "difficulty": "easy",
+      "explanation": "The name Python derives from the British comedy series Monty Python's Flying Circus."
+    },
+    {
+      "question": "Which symbol is used in Python for the exponentiation operation?",
+      "options": [
+        "//",
+        "@",
+        "**",
+        "%"
+      ],
+      "answer": "**",
+      "difficulty": "medium",
+      "explanation": "Python offers the ** symbol for exponentiation, e.g. 5**3 == 125."
+    }
+  ],
+  "related_topics": [
+    "Guido van Rossum",
+    "Programming paradigm",
+    "Dynamic typing",
+    "ABC (programming language)",
+    "TIOBE Programming Community Index"
+  ]
+}

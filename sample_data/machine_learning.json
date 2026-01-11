@@ -1,0 +1,119 @@
+{
+  "id": 4,
+  "url": "https://en.wikipedia.org/wiki/Machine_learning",
+  "title": "Machine learning",
+  "summary": "Machine learning(ML) is afield of studyinartificial intelligenceconcerned with the development and study ofstatistical algorithmsthat can learn fromdataandgeneraliseto unseen data, and thus performtaskswithout explicitinstructions.Within a subdiscipline in machine learning, advances in the field ofdeep learninghave allowedneural networks, a class of statistical algorithms, to surpass many previous machine learning approaches in performance.",
+  "sections": [
+    "History",
+    "Relationships to other fields",
+    "Theory",
+    "Approaches",
+    "Models",
+    "Applications",
+    "Limitations",
+    "Model assessments",
+    "Ethics",
+    "Hardware",
+    "Software",
+    "Journals",
+    "Conferences",
+    "See also",
+    "References",
+    "Sources",
+    "Further reading",
+    "External links"
+  ],
+  "quiz": [
+    {
+      "question": "Machine learning is primarily concerned with the development and study of statistical algorithms that perform tasks without explicit instructions by learning from what?",
+      "options": [
+        "Logical, knowledge-based systems",
+        "Explicit programming commands",
+        "Data and generalization to unseen data",
+        "Inductive logic programming"
+      ],
+      "answer": "Data and generalization to unseen data",
+      "difficulty": "easy",
+      "explanation": "Machine learning algorithms are concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without explicit instructions."
+    },
+    {
+      "question": "Who coined the term \"machine learning\" in 1959?",
+      "options": [
+        "Tom M. Mitchell",
+        "Donald Hebb",
+        "Arthur Samuel",
+        "Ian Goodfellow"
+      ],
+      "answer": "Arthur Samuel",
+      "difficulty": "medium",
+      "explanation": "The term machine learning was coined in 1959 by Arthur Samuel, an IBM employee and pioneer in the field of computer gaming and artificial intelligence."
+    },
+    {
+      "question": "According to the text, which theoretical framework provides a mathematical and statistical basis for describing machine learning, under which most algorithms can be described as empirical risk minimisation?",
+      "options": [
+        "Generative adversarial networks",
+        "Probably approximately correct learning",
+        "Inductive logic programming",
+        "Mathematical optimisation"
+      ],
+      "answer": "Probably approximately correct learning",
+      "difficulty": "medium",
+      "explanation": "From a theoretical viewpoint, probably approximately correct learning provides a mathematical and statistical framework for describing machine learning, and most traditional machine learning and deep learning algorithms can be described as empirical risk minimisation under this framework."
+    },
+    {
+      "question": "What is the key distinction between the principal goal of machine learning and the principal goal of statistics, as described in the text?",
+      "options": [
+        "ML focuses on logical reasoning; Statistics focuses on pattern recognition.",
+        "ML finds generalizable predictive patterns; Statistics draws population inferences from a sample.",
+        "ML requires a pre-structured model; Statistics allows the data to shape the model.",
+        "ML focuses on knowledge discovery; Statistics focuses on data compression."
+      ],
+      "answer": "ML finds generalizable predictive patterns; Statistics draws population inferences from a sample.",
+      "difficulty": "hard",
+      "explanation": "Statistics draws population inferences from a sample, while machine learning finds generalisable predictive patterns."
+    },
+    {
+      "question": "Advances in the field of deep learning have allowed which class of statistical algorithms to surpass many previous machine learning approaches in performance?",
+      "options": [
+        "Expert systems",
+        "Perceptrons",
+        "Neural networks",
+        "Generalised linear models"
+      ],
+      "answer": "Neural networks",
+      "difficulty": "medium",
+      "explanation": "Advances in the field of deep learning have allowed neural networks, a class of statistical algorithms, to surpass many previous machine learning approaches in performance."
+    },
+    {
+      "question": "What term is used to describe the application of machine learning specifically to business problems?",
+      "options": [
+        "Data mining",
+        "Exploratory data analysis",
+        "Predictive analytics",
+        "Automated medical diagnosis"
+      ],
+      "answer": "Predictive analytics",
+      "difficulty": "easy",
+      "explanation": "The application of ML to business problems is known as predictive analytics."
+    },
+    {
+      "question": "Which researchers continued the line of neural networks research, known as \"connectionism,\" outside the AI/CS field after it had been abandoned, achieving success in the mid-1980s with the reinvention of backpropagation?",
+      "options": [
+        "Walter Pitts and Warren McCulloch",
+        "Arthur Samuel and Donald Hebb",
+        "Ian Goodfellow and Tom M. Mitchell",
+        "John Hopfield, David Rumelhart, and Geoffrey Hinton"
+      ],
+      "answer": "John Hopfield, David Rumelhart, and Geoffrey Hinton",
+      "difficulty": "hard",
+      "explanation": "Neural networks research was continued outside the AI/CS field as 'connectionism,' by researchers including John Hopfield, David Rumelhart, and Geoffrey Hinton. Their main success came in the mid-1980s with the reinvention of backpropagation."
+    }
+  ],
+  "related_topics": [
+    "Artificial intelligence",
+    "Deep learning",
+    "Data mining",
+    "Statistical algorithms",
+    "Predictive analytics"
+  ]
+}

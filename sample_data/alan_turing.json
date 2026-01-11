@@ -1,0 +1,111 @@
+{
+  "id": 1,
+  "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+  "title": "Alan Turing",
+  "summary": "Alan Mathison Turing(/ˈtjʊərɪŋ/; 23 June 1912 – 7 June 1954) was an Englishmathematician,computer scientist,logician,cryptanalyst,philosopherandtheoretical biologist.He was highly influential in the development oftheoretical computer science, providing a formalisation of the concepts ofalgorithmandcomputationwith theTuring machine, which can be considered a model of a general-purposecomputer.Turing is widely considered to be the father of theoretical computer science.",
+  "sections": [
+    "Early life and education",
+    "Career and research",
+    "Personal life",
+    "Death",
+    "Government apology and pardon",
+    "Further reading",
+    "See also",
+    "Notes",
+    "References",
+    "External links"
+  ],
+  "quiz": [
+    {
+      "question": "Alan Turing is widely considered to be the father of which field?",
+      "options": [
+        "Theoretical biology",
+        "Cryptanalysis",
+        "Theoretical computer science",
+        "Mathematical biology"
+      ],
+      "answer": "Theoretical computer science",
+      "difficulty": "easy",
+      "explanation": "The content states that Turing is widely considered to be the father of theoretical computer science, providing a formalisation of the concepts of algorithm and computation with the Turing machine."
+    },
+    {
+      "question": "During World War II, what was the name of the section Alan Turing led at Bletchley Park, responsible for German naval cryptanalysis?",
+      "options": [
+        "Hut 8",
+        "The Government Code and Cypher School",
+        "The Ultra Intelligence Centre",
+        "The Computing Machine Laboratory"
+      ],
+      "answer": "Hut 8",
+      "difficulty": "medium",
+      "explanation": "Turing worked for the Government Code and Cypher School at Bletchley Park and led Hut 8, the section responsible for German naval cryptanalysis."
+    },
+    {
+      "question": "Which machine did Alan Turing design while working at the National Physical Laboratory after the war?",
+      "options": [
+        "The Turing machine",
+        "The Bomba",
+        "The Automatic Computing Engine",
+        "The Manchester Mark I"
+      ],
+      "answer": "The Automatic Computing Engine",
+      "difficulty": "medium",
+      "explanation": "After the war, Turing worked at the National Physical Laboratory, where he designed the Automatic Computing Engine (ACE), one of the first designs for a stored-program computer."
+    },
+    {
+      "question": "In what year did Queen Elizabeth II grant Alan Turing a pardon for his historical conviction?",
+      "options": [
+        "1952",
+        "2009",
+        "2013",
+        "2017"
+      ],
+      "answer": "2013",
+      "difficulty": "medium",
+      "explanation": "Following a campaign in 2009, British prime minister Gordon Brown made an official public apology, and Queen Elizabeth II granted a pardon in 2013."
+    },
+    {
+      "question": "Alan Turing's dissertation, written during his senior year at King's College, Cambridge, proved a version of which mathematical concept?",
+      "options": [
+        "Gödel's incompleteness theorems",
+        "The central limit theorem",
+        "Newton's laws of motion",
+        "The Entscheidungsproblem"
+      ],
+      "answer": "The central limit theorem",
+      "difficulty": "hard",
+      "explanation": "His dissertation, 'On the Gaussian error function,' delivered in November 1934, proved a version of the central limit theorem."
+    },
+    {
+      "question": "What was the cause of death for Christopher Collan Morcom, Alan Turing's first love, in 1930?",
+      "options": [
+        "Cyanide poisoning",
+        "Complications of bovine tuberculosis",
+        "Wounds sustained in World War II",
+        "A bicycle accident during the General Strike"
+      ],
+      "answer": "Complications of bovine tuberculosis",
+      "difficulty": "medium",
+      "explanation": "Morcom's death, in February 1930, was from complications of bovine tuberculosis, contracted after drinking infected cow's milk some years previously."
+    },
+    {
+      "question": "Alan Turing earned a doctorate degree from which university in 1938?",
+      "options": [
+        "King's College, Cambridge",
+        "University of Manchester",
+        "Princeton University",
+        "University of London"
+      ],
+      "answer": "Princeton University",
+      "difficulty": "easy",
+      "explanation": "He graduated from King's College, Cambridge, and in 1938, earned a doctorate degree from Princeton University."
+    }
+  ],
+  "related_topics": [
+    "Turing machine",
+    "Bletchley Park",
+    "Cryptanalysis",
+    "Automatic Computing Engine",
+    "Theoretical computer science"
+  ]
+}
