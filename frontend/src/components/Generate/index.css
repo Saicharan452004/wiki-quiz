@@ -1,0 +1,144 @@
+/* Layout */
+.generate-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 32px 24px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, sans-serif;
+}
+
+/* Input row */
+.input-row {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 28px;
+}
+
+.input-row input {
+  flex: 1;
+  padding: 14px 16px;
+  font-size: 15px;
+  border-radius: 10px;
+  border: 1px solid #e0e0e0;
+  outline: none;
+  background: #fafafa;
+}
+
+.input-row input:focus {
+  border-color: #4f46e5;
+  background: #fff;
+}
+
+/* Button */
+.input-row button {
+  padding: 14px 22px;
+  border-radius: 10px;
+  border: none;
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+  background: #4f46e5;
+  color: white;
+  transition: all 0.2s ease;
+}
+
+.input-row button:hover {
+  background: #4338ca;
+}
+
+.input-row button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* Quiz result header */
+.quiz-result h2 {
+  font-size: 28px;
+  margin-bottom: 8px;
+}
+
+.summary {
+  max-width: 800px;
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 32px;
+}
+
+/* Quiz list */
+.quiz-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* Cards */
+.quiz-card {
+  background: white;
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.06);
+  border: 1px solid #eee;
+}
+
+.quiz-card h3 {
+  margin-bottom: 14px;
+  font-size: 18px;
+}
+
+/* Options */
+.options {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 18px 0;
+}
+
+.options li {
+  padding: 10px 14px;
+  background: #f6f7fb;
+  border-radius: 10px;
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+
+/* Meta */
+.meta {
+  display: flex;
+  margin-bottom: 16px;
+}
+
+.difficulty {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 6px 12px;
+  border-radius: 999px;
+  text-transform: capitalize;
+}
+
+.difficulty.easy {
+  background: #dcfce7;
+  color: #166534;
+}
+
+.difficulty.medium {
+  background: #fef3c7;
+  color: #92400e;
+}
+
+.difficulty.hard {
+  background: #fee2e2;
+  color: #991b1b;
+}
+
+/* Answer box */
+.answer {
+  background: #f9fafb;
+  border-radius: 12px;
+  padding: 16px;
+  border: 1px solid #eee;
+}
+
+.answer p {
+  margin: 6px 0;
+  font-size: 14px;
+  color: #333;
+}
