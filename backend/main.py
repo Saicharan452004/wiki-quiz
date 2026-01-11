@@ -7,6 +7,7 @@ from scraper import scrape_wikipedia
 from quiz_generator import generate_quiz
 from models import Quiz
 from fastapi import FastAPI
+from fastapi import Query
 from db import engine
 from models import Base
 from sqlalchemy.orm import Session
@@ -31,7 +32,7 @@ def get_db():
         db.close()
 
 @app.post("/generate")
-def generate_quiz_api(url: str, db: Session = Depends(get_db)):
+def generate_quiz_api(url: str = Query(...),db: Session = Depends(get_db)):
     if not url:
         raise HTTPException(status_code=400, detail="URL is required")
 
