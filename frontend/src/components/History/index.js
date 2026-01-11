@@ -6,17 +6,16 @@ export default function History() {
   const [selected, setSelected] = useState(null);
 
   useEffect(() => {
-    fetch("http://127.0.0.1:8000/history")
+    fetch("https://wiki-quiz-backend-kxzw.onrender.com/history")
       .then(res => res.json())
       .then(data => setItems(data));
   }, []);
 
   async function loadQuiz(id) {
-    const res = await fetch(`http://127.0.0.1:8000/quiz/${id}`);
+    const res = await fetch(`https://wiki-quiz-backend-kxzw.onrender.com/quiz/${id}`);
     const json = await res.json();
     setSelected(json);
   }
-
   return (
     <div className="history-layout">
 

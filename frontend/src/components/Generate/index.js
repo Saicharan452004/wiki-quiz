@@ -15,7 +15,7 @@ export default function Generate() {
   setLoading(true);
 
   try {
-    const res = await fetch("http://127.0.0.1:8000/generate?url=" + url, {
+    const res = await fetch("https://wiki-quiz-backend-kxzw.onrender.com/generate?url=" + url, {
       method: "POST"
     });
 
